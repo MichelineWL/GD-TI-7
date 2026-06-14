@@ -1,5 +1,7 @@
 # Tutorial 7 - Basic 3D Game Mechanics & Level Design
 
+PS: Hi kak sorry banget aku baru sadar belum di commit dan push... 
+
 Repositori ini berisi pengerjaan **Tutorial 7 - Basic 3D Game Mechanics & Level Design** untuk mata kuliah Game Development, Fakultas Ilmu Komputer, Universitas Indonesia.
 
 Pengerjaan ini mengimplementasikan seluruh latihan utama beserta **dua (2) latihan mandiri tambahan** serta polesan mekanika permainan untuk memperoleh **nilai maksimal (4 / A)**.
